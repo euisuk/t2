@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         // ES: ch4 in Server
         // ES: ch5 on LOCAL
         // ES: ch6 in Local br1
+        // ES: ch7 in LOcal br1
 
         return super.onOptionsItemSelected(item);
     }
